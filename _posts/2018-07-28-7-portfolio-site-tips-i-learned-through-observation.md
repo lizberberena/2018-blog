@@ -51,7 +51,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <p class="caption">Portfolio of designer and entrepreneur <a href="http://simplebits.com" target="_blank">Dan Cederholm</a></p>
 
-<p>You may have heard that you should make your domain your first and last name, but this might not always be the best idea if that's not what people know you as professionally. Your real name doesn't have to be your professional name for various reasons: it could be difficult to read or hard to spell. You want to pick something memorable, too. If you don't plan on using your real name professionally, pick a new name and make sure you stick with it on every professional platform. You could also do this and pick a catchy name that describes the work you do. There are many examples of this online, so I suggest you take a look at some for inspiration. Two examples would be the website of one of the co-founders of Dribbble who chose <a href="http://simplebits.com" target="_blank">SimbleBits.com</a> and the website of one of the creators of the video game <em>Night in the Woods</em> who chose BombsFall.com. If your domain isn't available as a .com, consider getting a .net or a .org domain, as they are the second highest-ranking on search engines. An example of a well-visited website with one of these TLDs would be the website of the cartoonist and illustrator famous for the StupidFox comic who chose <a href="http://eychan.org" target="_blank">eychan.org</a>.</p>
+<p>You may have heard that you should make your domain your first and last name, but this might not always be the best idea if that's not what people know you as professionally. Your real name doesn't have to be your professional name for various reasons: it could be difficult to read or hard to spell. You want to pick something memorable, too. If you don't plan on using your real name professionally, pick a new name and make sure you stick with it on every professional platform. You could also do this and pick a catchy name that describes the work you do. There are many examples of this online, so I suggest you take a look at some for inspiration. Two examples would be the website of one of the co-founders of Dribbble who chose <a href="http://simplebits.com" target="_blank">SimbleBits.com</a> and the website of one of the creators of the video game <em>Night in the Woods</em> who chose <a href="http://www.bombsfall.com/" target="_blank">BombsFall.com</a>. If your domain isn't available as a .com, consider getting a .net or a .org domain, as they are the second highest-ranking on search engines. An example of a well-visited website with one of these TLDs would be the website of the cartoonist and illustrator famous for the StupidFox comic who chose <a href="http://eychan.org" target="_blank">eychan.org</a>.</p>
 
 <p>I myself owned two professional domains with different TLDs, with the one on this blog having a .org. (I would have chosen a .com TLD, but did whoever buy the .com version of my original domain really think I'd pay over $2,000 for it?!) I still try to keep a consistent branding elsewhere online, and because my last name isn't the easiest to spell, I strategically chose my current domain name so that any subdomain I use with it is cutely memorable, i.e. <em>Themes.DomainName.org</em> and <em>Games.DomainName.org</em>. Remember that your name is part of your personal brand. Sell your name as you would sell your work and have fun with it!</p>
 
@@ -106,7 +106,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <ul>
 	<li><a href="http://simplebits.com/" target="_blank">http://simplebits.com/</a> (Dan Cederholm, co-founder of Dribbble)</li>
-	<li>http://www.bombsfall.com/ (Scott Benson, designer on Night In The Woods video game)</li>
+	<li><a href="http://www.bombsfall.com/" target="_blank">http://www.bombsfall.com/</a> (Scott Benson, designer on Night In The Woods video game)</li>
 	<li><a href="http://eychan.org/" target="_blank">http://eychan.org/</a> (Emily Chan, creator of StupidFox comics)</li>
 	<li><a href="http://arielbeninca.com/" target="_blank">http://arielbeninca.com/</a> (Ariel Beninca, front end developer and graphic designer)</li>
 	<li><a href="http://taniarascia.com/" target="_blank">http://taniarascia.com/</a> (Tania Rascia, web developer, designer, and writer)</li>
@@ -124,7 +124,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 <p>Image credits:</p>
 
 <ul>
-	<li>Featured image by <a href="https://unsplash.com/photos/g6e641CiHFQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">SnapbyThree MY</a> on <a href="https://unsplash.com/search/photos/coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash</a></li>
+	<li>Featured image by <a href="https://unsplash.com/photos/g6e641CiHFQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">SnapbyThree MY</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></li>
 	<li>Screenshots of each website featured</li>
 </ul>
 
