@@ -26,7 +26,7 @@ img: musicthumbnail.png
 	<li><a href="http://freemusicarchive.org" target="_blank">FreeMusicArchive.org</a></li>
 	<li><a href="https://incompetech.com" target="_blank">Incompetech.com</a></li>
 	<li><a href="https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA" target="_blank">Audio Library Channel on YouTube.com</a></li>
-	<li><a href="https://youtube.com/audiolibrary/music" target="_blank">Audio Library YouTube Tool</a></li>
+	<li><a href="https://youtube.com/audiolibrary" target="_blank">Audio Library YouTube Tool</a></li>
 </ul>
 
 <p>Information about creative commons:</p>
@@ -35,4 +35,4 @@ img: musicthumbnail.png
 	<li><a href="https://creativecommons.org" target="_blank">CreativeCommons.org</a></li>
 </ul>
 
-<p>Thumbnail photo by <a href="https://unsplash.com/photos/rhZ08YqeioU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Patrick Fore</a> on https://unsplash.com</p>
+<p>Thumbnail photo by <a href="https://unsplash.com/photos/rhZ08YqeioU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Patrick Fore</a> on <a href="https://unsplash.com" target="_blank">https://unsplash.com</a></p>
