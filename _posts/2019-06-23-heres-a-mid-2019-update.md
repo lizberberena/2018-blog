@@ -32,7 +32,7 @@ img: gametimeline.png
 
 <h2>Log Out: A Cyber Harassment Survival Guide</h2>
 
-<p>My DCIM capstone project website came out as planned and can be checked out here: <a href="{{ site.url }}/logout" target="_blank">{{ site.url }}/logout</a>. I'm honestly so proud of the construction of this website. I managed to capture the design of the current Kiwi Farms website perfectly, I think. I definitely want to add onto this website sometime in the future and create similar websites - albeit on less serious topics. This is partly due to new inspiration by the video game fan sites of Wurm Online and Ultima Online by game artist and streamer Andrea Fryer (<a href="https://www.youtube.com/user/KatsPurr" target="_blank">Katspurr on YouTube</a>). This segues into the next project...</p>
+<p>My DCIM capstone project website came out as planned and can be checked out here: <a href="{{ site.url }}/bluejay" target="_blank">{{ site.url }}/bluejay</a>. I'm honestly so proud of the construction of this website. I managed to capture the design of the current Kiwi Farms website perfectly, I think. I did need to make a design update later on because it looked too similar. I definitely want to add onto this website sometime in the future and create similar websites - albeit on less serious topics. This is partly due to new inspiration by the video game fan sites of Wurm Online and Ultima Online by game artist and streamer Andrea Fryer (<a href="https://www.youtube.com/user/KatsPurr" target="_blank">Katspurr on YouTube</a>). This segues into the next project...</p>
 
 <h2>Rampage Information Database</h2>
 
