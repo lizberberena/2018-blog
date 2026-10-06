@@ -27,7 +27,7 @@ img: wordpressbeginningsicon.png
 
 <p class="caption"><a href="https://wordpress.org/themes/jinn/" target="_blank">View jinn Theme</a></p>
 
-<p>I'm not 100% certain, but I think this is a screenshot of my first ever WordPress portfolio site. The theme I used then was a very simple theme called <a href="https://wordpress.org/themes/jinn/" target="_blank">jinn</a> by freelance graphic designer and WordPress developer <a href="https://www.aaronsnowberger.com/" target="_blank">Aaron Snowberger</a> who uses the theme on his own portfolio site.</p>
+<p>I'm not 100% certain, but I think this is a screenshot of my first ever WordPress portfolio site. The theme I used then was a very simple theme called <a href="https://wordpress.org/themes/jinn/" target="_blank">jinn</a> by freelance graphic designer and WordPress developer <a href="https://web.archive.org/web/20180917235650/https://www.aaronsnowberger.com/" target="_blank">Aaron Snowberger</a> who used to use the theme on his own portfolio site.</p>
 
 <p>As you can see, my blog now looks pretty similar to the first theme I ever used on WordPress, so I'm still very much a fan of large white titles on simple gradient backgrounds!</p>
 
@@ -43,9 +43,9 @@ img: wordpressbeginningsicon.png
 
 <img src="{{ site.url }}/img/PortfolioSite.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a rel="noreferrer noopener" href="https://wordpress.org/themes/simplenotes/" target="_blank">View Simplenotes Theme</a></p>
+<p class="caption"><a rel="noreferrer noopener" href="https://web.archive.org/web/20180218233844/https://wordpress.org/themes/simplenotes/" target="_blank">View Simplenotes Theme</a></p>
 
-<p>Soon, however, I went through a phase where I wanted a site that was as minimalistic as possible because I thought that was "in". I found this very elegant theme called <a href="https://wordpress.org/themes/simplenotes/" target="_blank">Simplenotes</a> by <a href="https://www.behance.net/carla-izumi-bamford" target="_blank">Carla Izumi Bamford</a>, who has many other interesting minimalist designs I recommend checking out for inspiration. Unfortunately her website appears to have gone down shortly before me writing this post, and it was one of the first to inspire me to try web development. I don't know what the situation is, but hopefully she comes back to continue sharing her work with us!</p>
+<p>Soon, however, I went through a phase where I wanted a site that was as minimalistic as possible because I thought that was "in". I found this very elegant theme called <a href="https://web.archive.org/web/20180218233844/https://wordpress.org/themes/simplenotes/" target="_blank">Simplenotes</a> by <a href="https://web.archive.org/web/20180604104138/http://carla-izumi-bamford.com/" target="_blank">Carla Izumi Bamford</a>, who has many other interesting minimalist designs I recommend checking out for inspiration. Unfortunately her website appears to have gone down shortly before me writing this post, and it was one of the first to inspire me to try web development. I don't know what the situation is, but hopefully she comes back to continue sharing her work with us!</p>
 
 <img src="{{ site.url }}/img/PortfolioSite3.png" alt="" class="img-fluid"/>
 
@@ -90,7 +90,7 @@ img: wordpressbeginningsicon.png
 <ul>
 	<li><a href="https://wordpress.org/themes/jinn/" target="_blank">jinn</a> by <a href="https://www.aaronsnowberger.com/" target="_blank">Aaron Snowberger</a></li>
 	<li><a href="https://wordpress.org/themes/dara/" target="_blank">Dara</a> by <a href="https://automattic.com/" target="_blank">Automattic</a></li>
-	<li><a href="https://wordpress.org/themes/simplenotes/" target="_blank">Simplenotes</a> by <a href="https://www.behance.net/carla-izumi-bamford" target="_blank">Carla Izumi Bamford</a></li>
+	<li><a href="https://web.archive.org/web/20180218233844/https://wordpress.org/themes/simplenotes/" target="_blank">Simplenotes</a> by <a href="https://web.archive.org/web/20180604104138/http://carla-izumi-bamford.com/" target="_blank">Carla Izumi Bamford</a></li>
 	<li><a href="https://wordpress.org/themes/gk-portfolio/" target="_blank">GK Portfolio</a> by <a href="https://www.gavick.com/" target="_blank">GavickPro</a></li>
 </ul>
 
