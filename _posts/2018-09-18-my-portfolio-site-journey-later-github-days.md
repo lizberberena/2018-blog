@@ -29,9 +29,10 @@ img: portfoliomid2018desktop.png
 
 <p>I was really excited when I made this site, so here are some GIFs of me showing it off in its first complete look. I only picked that shade of green because it matched the foliage in that photo, okay!</p>
 
+<!--
 <img src="https://lizberberena.com/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
 
-<p class="caption">The work page made me especially happy.</p>
+<p class="caption">The work page made me especially happy.</p>-->
 
 <img src="https://lizberberena.com/img/TAGS.gif" alt="" class="img-fluid"/>
 
