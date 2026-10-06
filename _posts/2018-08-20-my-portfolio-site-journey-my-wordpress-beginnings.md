@@ -63,7 +63,7 @@ img: wordpressbeginningsicon.png
 
 <p>I soon got bored of minimalism, so my third portfolio was much more focused on art because I wanted the focus this time to be images. I decided a simple grid-based theme would be the way to go, so I used the <a href="https://wordpress.org/themes/gk-portfolio/" target="_blank">GK Portfolio</a> theme by <a href="https://www.gavick.com/" target="_blank">GavickPro</a>. At this point, I learned how to make a child theme using some online tutorials and made my first child theme because of how how much I customized the theme's CSS.</p>
 
-<p>A tile-based theme still remains one of my favorite theme design ideas, so it has carried on to my <a href="{{ site.url }}" target="_blank">current portfolio site</a> for which I have a lot of fun creating preview graphics.</p>
+<p>A tile-based theme still remains one of my favorite theme design ideas, so it carried on to a <a href="https://lizberberena.com/mid-2019/" target="_blank">later portfolio site</a> for which I had a lot of fun creating preview graphics.</p>
 
 <h3>Conclusion</h3>
 
