@@ -67,18 +67,18 @@ img: portfoliomid2018desktop.png
 
 <ul>
 	<li><a href="http://jekyllrb.com" target="_blank">Jekyll</a> Static Site Generator</li>
-	<li><a href="http://jekyll-windows.juthilo.com/" target="_blank">Jekyll Windows Installation Tutorial</a> by <a href="http://twitter.com/juthilo" target="_blank">@juthilo</a></li>
+	<li><a href="https://web.archive.org/web/20240226211032/http://jekyll-windows.juthilo.com/" target="_blank">Jekyll Windows Installation Tutorial</a> by @juthilo on Twitter</li>
 	<li><a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">FireShot Screenshot Extension</a></li>
 	<li><a href="https://getbootstrap.com/docs/4.0/components/dropdowns/" target="_blank">Bootstrap</a> Reference</li>
 	<li><a href="http://longqian.me/2017/02/09/github-jekyll-tag/" target="_blank">Jekyll Blog Tag Tutorial</a> by <a href="http://longqian.me/" target="_blank">Long Qian</a></li>
 	<li><a href="https://www.w3schools.com/cssref/pr_pos_overflow.asp" target="_blank">CSS Overflow Property</a> (to make scrolling content boxes)</li>
-	<li><a href="https://codepen.io/P1N2O/pen/pyBNzX" target="_blank">Cool CSS Gradient Animation</a> by <a href="https://manuelpinto.in/" target="_blank">Manuel Pinto</a></li>
+	<li><a href="https://codepen.io/P1N2O/pen/pyBNzX" target="_blank">Cool CSS Gradient Animation</a> by <a href="https://web.archive.org/web/20241001174039/https://manuel.pinto.dev/" target="_blank">Manuel Pinto</a></li>
 </ul>
 
 <p>Inspiration:</p>
 
 <ul>
-	<li><a href="http://www.kathrynmcclintock.com/" target="_blank">Kathryn McClintock's website</a></li>
+	<li><a href="https://web.archive.org/web/20180719073316/http://www.kathrynmcclintock.com/" target="_blank">Kathryn McClintock's website</a></li>
 </ul>
 
 <p>Images:</p>
