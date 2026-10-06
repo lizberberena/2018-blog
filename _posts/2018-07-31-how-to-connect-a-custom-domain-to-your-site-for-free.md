@@ -120,7 +120,7 @@ img: tyler-nix-590905-unsplash2.jpg
 <ul>
 	<li><a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9247/2208/how-do-i-use-my-domain-with-my-tumblr-account" target="_blank">"How do I use my domain with my Tumblr account"</a> by Namecheap</li>
 	<li><a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages" target="_blank">"How do I link my domain to Github Pages"</a> by Namecheap</li>
-	<li><a href="http://x10hosting.com/support/domains/add-domain-name" target="_blank">"Adding your own domain name"</a> by x10Hosting</li>
+	<li><a href="https://web.archive.org/web/20190304044408/https://x10hosting.com/support/domains/add-domain-name" target="_blank">"Adding your own domain name"</a> by x10Hosting</li>
 </ul>
 
 <p>Domain Name Registrar:</p>
