@@ -39,9 +39,9 @@ img: firstportfolio.png
 
 <p>With this theme I got to experiment with a little bit of Javascript and jQuery, making my project descriptions toggle on and off. I actually started making tons of progress GIFs at this point with <a href="https://www.screentogif.com/">ScreenToGif</a>, and it's thanks to that that I'm able to recover bits of my progress to make this blog!</p>
 
-<p>Here's a screenshot of the whole site using the <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">FireShot FireFox extension</a>:</p>
+<p>Here's a screenshot of the whole site:</p>
 
-<img src="{{ site.url }}/img/portfolioearly2017.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfolio-mid-2017-2026.webp" alt="" class="img-fluid"/>
 
 <h4 id="second-portfolio">Version 2.3.0 - Late 2017</h4>
 
@@ -51,7 +51,7 @@ img: firstportfolio.png
 
 <p>The final portfolio of mine from 2017 was a more ambitious and complicated theme for me to do. I had figured out that naming your pages <em>index.html </em>and placing them inside a folder with the name of the page made it so that you wouldn't need to type <em>.html </em>in the URL, but this got a little bit out of hand as I found myself making copies of the same code again and again. Ultimately this portfolio was a failure for me, but I was trying to get more creative with it. I had been looking for inspiration online and came across <a href="http://arielbeninca.com" target="_blank">Ariel Beninca</a>'s awesome portfolio website. At the time, her site was mainly white with graphics of her work in an alternating pattern, so I just had to try to replicate the layout. I began making some colorful graphics to represent my items, which I still use on my current portfolio. One of the bad choices I made, however, was making not only a fixed menu, but a fixed footer.</p>
 
-<p>This was the result courtesy FireShot, with a little editing because the fixed footer really botched the screenshot:</p>
+<p>This was the result courtesy <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">FireShot</a>, with a little editing because the fixed footer really botched the screenshot:</p>
 
 <img src="{{ site.url }}/img/portfoliolate20172.png" alt="" class="img-fluid"/>
 
