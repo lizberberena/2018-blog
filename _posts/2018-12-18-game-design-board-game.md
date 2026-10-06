@@ -13,8 +13,8 @@ excerpt: "This was the final project for my Game Design Methodology course in wh
 img: boardgame.png
 ---
 
-<iframe class="video" src="https://docs.google.com/presentation/d/e/2PACX-1vRLu_9NC9Lc0cx4s-yF2kJZW7VAq6vnGazdldI_QZ4kI3cPid9vasu5F5Y8BZA-QZi8yekKMIaxuqP0/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<p class="caption">Our presentation slides</p>
+<!--<iframe class="video" src="https://docs.google.com/presentation/d/e/2PACX-1vRLu_9NC9Lc0cx4s-yF2kJZW7VAq6vnGazdldI_QZ4kI3cPid9vasu5F5Y8BZA-QZi8yekKMIaxuqP0/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p class="caption">Our presentation slides</p>-->
 
 <p>Read our rulebook below:</p>
 
