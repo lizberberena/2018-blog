@@ -14,15 +14,15 @@ img: phonyreality.png
 
 <h3 id="tictactoe">Tic Tac Toe in Visual Basic</h3>
 
-<img src="https://lizlorena.com/img/tictactoe2.png" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/tictactoe2.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>The first complete computer game I ever made was Tic Tac Toe in Visual Basic.NET. I made it for my final project in my Visual Basic programming elective class in my junior year of high school. Visual Basic was the first programming language I ever learned, and I fell in love with what programming was in that class and haven't stopped dreaming of a career in tech since. I remember spending mornings and evenings working on this game tirelessly on the school computers. It's a super small game, and it isn't coded great, but I remember the work feeling like a lot and feeling super satisfied when it ran exactly how I wanted it to. </p>
 
 <p>The final project requirements included adding features to the game, so I had the weird idea of making a 3x4 board and a timed mode for each board. The loop works like this: you type in the names of the two players, then select a board size and if it's timed or not. The way the game worked is that you had to choose who played first, and you had to click to end your turn, which is pretty bad design, but it's what I thought up on the fly at the time.</p>
 
-<img src="https://lizlorena.com/img/TicTacToe.png" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/TicTacToe.png" alt="" class="img-fluid"/>
 
 <h4>The Take Away</h4>
 
@@ -30,7 +30,7 @@ img: phonyreality.png
 
 <h3 id="wof">Wheel of Fortune using Scratch</h3>
 
-<img src="https://lizlorena.com/img/scratchgame2.png" class="img-fluid">
+<img src="https://lizberberena.com/img/scratchgame2.png" class="img-fluid">
 
 <p class="caption"><a href="https://scratch.mit.edu/projects/45665508/" target="_blank">Play on Scratch.MIT.edu</a></p>
 
@@ -42,7 +42,7 @@ img: phonyreality.png
 
 <h3 id="hauntedmansion">Haunted Mansion Text Adventure in Java</h3>
 
-<img src="https://lizlorena.com/img/escapegame.png" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/escapegame.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/lizberberena/oop-text-adventure" target="_blank">View Source Code</a></p>
 
@@ -56,16 +56,16 @@ img: phonyreality.png
 
 <h3 id="metalloid">Metalloid in Unity 2D</h3>
 
-<img src="https://lizlorena.com/img/metalloidmenu.gif" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/metalloidmenu.gif" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This was my partnered midterm project for my game design class in my junior year of college. It was the first time I ever made anything with Unity, and it was a lot of fun to learn how to use this software and how to make a 2D side-scroller. Unfortunately, it was also quite stressful to make this game because of the glitches in Unity's cloud collaboration feature. Also I found that I don't like the click-and-drag nature of this software because it makes everything feel super imprecise.</p>
 
 <p>It would be cool if you gave this game a play, but I'm not lying in the Itch.io description that this is the worst thing I've ever made. In the game, you're a space soldier escaping your ship which has become infested with hell-spawn. <a href="https://en.wikipedia.org/wiki/Doom_(1993_video_game)" target="_blank"><em>Sound familiar?</em></a> The game ends when you fly to Earth. I made the third level by myself, and it differs from the rest of the game because there you fly a ship and shoot asteroids.</p>
 
-<img src="https://lizlorena.com/img/Metalloid2.png" alt="" class="img-fluid">
-<img src="https://lizlorena.com/img/Metalloid3.png" alt="" class="img-fluid">
+<img src="https://lizberberena.com/img/Metalloid2.png" alt="" class="img-fluid">
+<img src="https://lizberberena.com/img/Metalloid3.png" alt="" class="img-fluid">
 
 <h4>The Take Away</h4>
 
@@ -73,9 +73,9 @@ img: phonyreality.png
 
 <h3 id="phonyreality">Phony Reality in Unity 3D</h3>
 
-<img src="https://lizlorena.com/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This game was for my final project in my game design class my junior year of college. For the second half of the class, we learned to use Unity to make 3D games, and I thought that this was a little easier. The lag, the terrain builder, and the click-and-drag system is probably still the worst part of Unity, and I should learn to handle those better. </p>
 
@@ -83,8 +83,8 @@ img: phonyreality.png
 
 <p>Also, not to spoil anything, but the themes in this game are something I want to incorporate in my current game as well.</p>
 
-<img src="https://lizlorena.com/img/PhonyReality2.png" alt="" class="img-fluid"/>
-<img src="https://lizlorena.com/img/PhonyReality3.png" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/PhonyReality2.png" alt="" class="img-fluid"/>
+<img src="https://lizberberena.com/img/PhonyReality3.png" alt="" class="img-fluid"/>
 
 <h4>The Take Away</h4>
 
@@ -103,12 +103,12 @@ img: phonyreality.png
 <p>All Games:</p>
 
 <ul>
-	<li><a href="https://github.com/lizberberena/games" target="_blank">Tic Tac Toe</a> in Visual Basic</li>
+	<li><a href="https://github.com/lizberberena/lizberberena" target="_blank">Tic Tac Toe</a> in Visual Basic</li>
 	<li><a href="https://scratch.mit.edu/projects/45665508/" target="_blank">Wheel of Fortune</a> using Scratch</li>
 	<li><a href="https://github.com/lizberberena/cs-blackjack" target="_blank">Black Jack</a> in Java</li>
 	<li><a href="https://github.com/lizberberena/oop-text-adventure" target="_blank">Haunted Mansion Text Adventure</a> in Java</li>
-	<li><a href="https://github.com/lizberberena/games" target="_blank">Metalloid</a> in Unity 2D</li>
-	<li><a href="https://github.com/lizberberena/games" target="_blank">Phony Reality</a> in Unity 3D</li>
+	<li><a href="https://github.com/lizberberena/lizberberena" target="_blank">Metalloid</a> in Unity 2D</li>
+	<li><a href="https://github.com/lizberberena/lizberberena" target="_blank">Phony Reality</a> in Unity 3D</li>
 </ul>
 
 <p>Software and Languages:</p>
